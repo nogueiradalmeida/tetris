@@ -1,0 +1,34 @@
+/******************/
+JJUNIOR TETRIS
+www.jjuniorz.cjb.net
+/******************/
+
+
+
+
+OBJETIVO DO JOGO:
+
+Evitar encher o buraco
+
+
+
+
+COMANDOS BASICOS:
+
+<A> Gira no sentido horario
+
+<S> Gira trigonometricamente
+
+<SETAS> Comandam a peca
+
+<BARRA DE ESPACO> Cai rapido
+
+<ENTER> Paralisa o jogo
+
+<ESC> Sai do jogo
+
+<J> Comando extra
+
+<F1> Ajuda (esta janela)
+
+
